@@ -1,0 +1,11 @@
+.Button {
+  background-color: rgb(121, 5, 5);
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+.Controls {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
